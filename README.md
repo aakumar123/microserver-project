@@ -1,1 +1,1 @@
-New Project
+New Micro Server Project
